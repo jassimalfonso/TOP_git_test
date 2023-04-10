@@ -1,2 +1,5 @@
 I am in a text file
+<<<<<<< HEAD
 Or am I?
+=======
+>>>>>>> cbc318b59207eeeb1da48f6e677817ec786d916f
